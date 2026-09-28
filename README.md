@@ -283,6 +283,27 @@ O projeto foi organizado considerando as principais etapas do pipeline:
 
 ---
 
+## 12. Evidências do Projeto
+
+Este repositório contém screenshots que documentam as principais etapas realizadas durante o desenvolvimento do MVP no Databricks.
+
+As evidências incluem:
+
+- Fonte e origem dos dados;
+- Ingestão dos dados;
+- Construção da camada Bronze;
+- Transformação e construção da camada Silver;
+- Construção das tabelas Gold;
+- Verificações de valores nulos e registros duplicados;
+- Execução das análises de dados;
+- Resultados obtidos;
+- Construção e publicação do dashboard;
+- Estrutura final do pipeline.
+
+Os screenshots foram mantidos no repositório como evidência da execução das etapas descritas neste documento.
+
+---
+
 ## Conclusão
 
 O MVP demonstrou a construção de um pipeline de dados completo no Databricks, passando pelas etapas de ingestão, transformação, modelagem, análise e visualização.
